@@ -14,6 +14,6 @@ Then visit http://localhost:8000.
 - Touch: use the bottom joystick to move and hold FIRE to aim automatically at the opponent and shoot.
 - P / Escape pauses. Use the sound toggle to mute.
 
-Both fighters start unarmed with three hearts. Collect arena weapons: pistols have three shots, rockets have one. Pistol hits cost one heart; rocket blasts are lethal. Each fighter’s current weapon and remaining shots appear below their hearts. Defeat the opponent to advance automatically to the next duel.
+Both fighters start unarmed with five hearts. Collect arena weapons: pistols have three shots, rockets have one. Pistol hits cost one heart, rocket blasts cost three, and fighter collisions cost each fighter one heart. Each fighter’s current weapon and remaining shots appear below their hearts. The final hit and explosion play before the result screen; defeating the opponent advances to the next duel.
 
 Rockets swim along a wavy path with a tapering trail. The runnable HTML embeds its assets; original audio and artwork are included for editing. Mochiy Pop One's font license is included in `ui assets/Font/Mochiy_Pop_One/OFL.txt`.
